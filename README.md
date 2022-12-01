@@ -1,1 +1,1 @@
-![4forcas's GitHub stats](https://github-readme-stats.vercel.app/api?username=4forcas&theme=transparent&show_icons=true&count_private=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/4forcas?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
